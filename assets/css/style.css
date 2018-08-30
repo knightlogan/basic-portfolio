@@ -1,0 +1,134 @@
+.header {
+    background-color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    display: block;
+    height: 70px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    border-bottom: 1px;
+    border-bottom-style: solid;
+    border-bottom-color: #777777;
+}
+
+body {
+    background-image: url(./images/leaves.png)
+}
+
+#name {
+    color: #ffffff;
+    background-color: #0087d7;
+    width: 150px;
+    height: 70px;
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 19.5%;
+    text-align: center;
+    font-size: 24px;
+}
+#sec1 {
+    height: 480px;
+    width: 960px;
+    background-color: #ffffff;
+    text-align: left;
+    margin: auto;
+    position: absolute;
+    top: 15%;
+    right: 20%;
+    left: 20%;
+    border: 1px;
+    border-style: solid;
+    border-color: #777777;
+}
+.threeparts {
+    position: absolute;
+    left: 70.5%;
+    top: 30%;
+    margin: auto;
+    display: inline;
+    color: #777777;
+}
+
+.sec1 {
+    background-color: white;
+    height: 500px;
+    width: 960px;
+    position: absolute;
+    top: 10%;
+    right: 25%;
+    left: 25%;
+    margin: auto;
+    border: 1px;
+    border-style: solid;
+    border-color:#777777;
+    text-align: left;
+}
+#porthead {
+    color: #0087d7;
+    position: absolute;
+    top: 20px;
+    left: 20px;
+    font-size: 25px;
+}
+hr {
+    color:#777777;
+    width: 900px;
+    position: absolute;
+    top: 50px;
+    left: 20px;
+}
+
+.imagebox {
+    position: absolute;
+    top: 70px;
+    left: 40px;
+}
+#pic {
+    float:left;
+    margin:10px;
+}
+p {
+    font-size: 18px;
+    color: #777777;
+}
+#img1 {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+#img2 {
+    position: absolute;
+    top: 100px;
+    right: 700px;
+}
+#img3 {
+    position: absolute;
+    top: 300px;
+    right: 700px;
+}
+#img4 {
+    position: absolute;
+    top: 300px;
+    right: 100px;
+}
+.form {
+    position: absolute;
+    right: 30px;
+    Top: 70px;
+    border-top: 1px;
+    border-top-style: solid;
+    border-top-color: #777777;
+    width: 900px;
+}
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: #666666;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    border-top: 12px;
+    border-top-style: solid;
+    border-top-color: #0087d7;
+}
